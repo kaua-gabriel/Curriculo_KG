@@ -16,6 +16,11 @@ body {
   overflow-x: hidden;
 }
 
+p { 
+  text-align: center;
+}
+
+
 /* Links */
 a, .link {
   color: rgba(255, 255, 255, 0.85);
