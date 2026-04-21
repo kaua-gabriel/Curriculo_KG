@@ -246,6 +246,7 @@ a:hover,
 /* Página do currículo */
 
 .cv-page {
+  height: 350px;
   width: 320px;
   max-width: 80vw;
 
