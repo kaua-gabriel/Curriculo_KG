@@ -21,6 +21,10 @@ body {
 }
 
 p {
+  text-align: start;
+}
+
+p, .resumo {
   text-align: center;
 }
 
@@ -159,7 +163,7 @@ a:hover,
 
 .cv-glass {
   margin-top: 2.5rem;
-  padding: 1.6rem 1.8rem;
+  padding: 1rem 1rem;
 
   background: rgba(255, 255, 255, 0.06);
   backdrop-filter: blur(14px);
